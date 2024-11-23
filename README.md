@@ -12,6 +12,8 @@ I am open to new acquaintances and collaborations
 
 ## **Pinned Projects:**
 
+**[](https://github.com/Xpos587/pfd-aiogram-2024)**
+
 **[RedLab Hach 2024: Development of a model for detecting anomalies in the time series](https://github.com/l1ghtsource/redlab-timeseries-anomaly-detection)**
 
 This repository contains Jupiter notebooks with machine learning models for searching for temporary anomalies in a time series, created to solve a case problem within the framework of the RedLab 2024 hackathon “Developing a model for detecting anomalies in a time series”
