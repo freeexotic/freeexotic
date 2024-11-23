@@ -1,18 +1,19 @@
-# Vsevolod Silaev - a Data Science Engineer
+# Vsevolod Silaev - C++ developer
 
 - Telegram: [https://t.me/vs_silaev](https://t.me/vs_silaev)
 - e-mail: [vs.silaev@yandex.ru](malto:vs.sialev@yandex.ru)
 
-**Fields of Interests:** Classical Machine Learning, CV, BioMedicine. Data analysis and processing for solving engineering problems,
-especially in the biomedical field.
+**Fields of Interests:** С++, Qt
 
-**About me:** A student at NUST MISIS University. He had experience working in biomedical laboratories, participated in the development of a program for automatic analysis of data from a microscope. 
+**About me:** A student at NUST MISIS University.  
 
 I am open to new acquaintances and collaborations
 
 ## **Pinned Projects:**
 
-**[](https://github.com/Xpos587/pfd-aiogram-2024)**
+**[Digital Breakthrough 2024: Virtual assistant for documentation (Winning this hackathon) ](https://github.com/Xpos587/pfd-aiogram-2024)**
+
+The project was developed within the framework of the Digital Breakthrough 2024 competition to solve the problem of simplifying user interaction with software documentation.
 
 **[RedLab Hach 2024: Development of a model for detecting anomalies in the time series](https://github.com/l1ghtsource/redlab-timeseries-anomaly-detection)**
 
