@@ -15,7 +15,7 @@ I am open to new acquaintances and collaborations
 
 The project was developed within the framework of the Digital Breakthrough 2024 competition to solve the problem of simplifying user interaction with software documentation.
 
-**[RedLab Hach 2024: Development of a model for detecting anomalies in the time series](https://github.com/l1ghtsource/redlab-timeseries-anomaly-detection)**
+**[RedLab Hack 2024: Development of a model for detecting anomalies in the time series](https://github.com/l1ghtsource/redlab-timeseries-anomaly-detection)**
 
 This repository contains Jupiter notebooks with machine learning models for searching for temporary anomalies in a time series, created to solve a case problem within the framework of the RedLab 2024 hackathon “Developing a model for detecting anomalies in a time series”
 
